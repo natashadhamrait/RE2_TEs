@@ -5,5 +5,3 @@ Figures: various scripts for RE2 and TEs project: preprocessing of data, RE2 set
 - figures.sh: part of the repeatexplorer documentation for generating figures from comparative analysis
 
 scripts
-
-
